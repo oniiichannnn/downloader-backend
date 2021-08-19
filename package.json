@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "mime": "^2.5.2",
+    "node-superfetch": "^0.2.3",
+    "request": "^2.88.2"
+  }
+}
